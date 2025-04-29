@@ -1,0 +1,30 @@
+# Arquivos e pastas do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg-info/
+*.eggs/
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados pelo PyInstaller
+dist/
+build/
+*.spec
+
+# Arquivos de configuração sensíveis
+credentials.json
+config.json
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos do Inno Setup
+Output/
+*.iss~
